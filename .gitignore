@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Dataset
+proposals_1000_EN.csv
+
+# Python cache (auto-generated, never useful to push)
+__pycache__/
+*.pyc
+
+# Jupyter auto-save checkpoints
+.ipynb_checkpoints/
