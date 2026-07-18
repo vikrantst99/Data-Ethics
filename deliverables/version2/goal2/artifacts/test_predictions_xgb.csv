@@ -1,0 +1,201 @@
+ai_method,issue_type,grounded_flag,n_red_flags,red_flags,y_true,y_pred,proba
+Classification,Bug,0,0,,0,0,0.009621054
+LLM Chatbot,Bug,0,0,,0,0,0.0066345413
+Classification,Bug,0,0,,0,0,0.011271211
+LLM Chatbot,Bug,0,0,,0,0,0.010922302
+Computer Vision,Bug,0,0,,0,0,0.013312027
+Computer Vision,Bug,0,0,,0,0,0.009524465
+Scoring,Bug,0,0,,0,0,0.016087538
+Clustering,Bug,0,1,RAI-04,1,1,0.85943747
+Computer Vision,Bug,0,0,,0,0,0.0096465945
+Scoring,Bug,0,3,"RAI-02,RAI-03,RAI-05",1,1,0.9999615
+Recommender,Suggestion,0,0,,0,0,0.0086461725
+Clustering,Suggestion,0,0,,0,0,0.011960303
+Classification,Bug,0,0,,0,0,0.0082891565
+Scoring,Bug,0,0,,0,0,0.012471575
+Recommender,Bug,0,0,,0,0,0.01857736
+Recommender,Bug,0,1,RAI-03,1,1,0.9221938
+Forecasting,Bug,0,0,,0,0,0.006816293
+Scoring,Bug,1,1,RAI-06,1,1,0.97920996
+Recommender,Bug,0,0,,0,0,0.28507107
+LLM Chatbot,Bug,0,0,,0,0,0.011247073
+LLM Chatbot,Bug,0,3,"RAI-02,RAI-04,RAI-09",1,1,0.9999807
+Computer Vision,Suggestion,0,0,,0,0,0.030726125
+Scoring,Bug,1,3,"RAI-01,RAI-04,RAI-06",1,1,0.99964356
+Forecasting,Bug,0,2,"RAI-02,RAI-05",1,1,0.9992023
+Recommender,Bug,0,0,,0,0,0.005735745
+Forecasting,Bug,0,0,,0,0,0.014040121
+LLM Chatbot,Bug,0,0,,0,0,0.007868401
+Computer Vision,Suggestion,0,0,,0,0,0.015696429
+Scoring,Bug,0,1,RAI-02,1,1,0.8203509
+Classification,Bug,0,0,,0,0,0.011665874
+Classification,Bug,0,0,,0,0,0.015295549
+LLM Chatbot,Suggestion,0,0,,0,0,0.033144906
+Recommender,Bug,0,0,,0,0,0.009121598
+LLM Chatbot,Bug,1,3,"RAI-03,RAI-04,RAI-06",1,1,0.9999614
+LLM Chatbot,Bug,0,0,,0,0,0.01348061
+Computer Vision,Bug,0,3,"RAI-02,RAI-03,RAI-09",1,1,0.99996996
+Computer Vision,Bug,0,0,,0,0,0.082615465
+Scoring,Bug,0,0,,0,0,0.021841276
+Forecasting,Bug,0,0,,0,0,0.009375144
+Classification,Bug,0,0,,0,0,0.00903197
+Forecasting,Suggestion,0,0,,0,0,0.008132963
+Recommender,Bug,0,0,,0,0,0.007981124
+Classification,Suggestion,0,0,,0,0,0.053495344
+Computer Vision,Bug,0,0,,0,0,0.03958916
+Clustering,Suggestion,0,0,,0,0,0.0088630915
+LLM Chatbot,Bug,0,0,,0,0,0.03466274
+Scoring,Bug,0,3,"RAI-03,RAI-07,RAI-08",1,1,0.99993443
+Forecasting,Suggestion,0,0,,0,0,0.037659183
+Computer Vision,Bug,0,2,"RAI-03,RAI-08",1,1,0.99785066
+Computer Vision,Bug,0,0,,0,0,0.010849118
+Clustering,Bug,0,0,,0,0,0.013209452
+LLM Chatbot,Bug,0,0,,0,0,0.008353345
+Clustering,Bug,1,3,"RAI-01,RAI-08,RAI-09",1,1,0.9999418
+Classification,Bug,0,0,,0,0,0.03133416
+Recommender,Bug,0,0,,0,0,0.012784608
+Recommender,Bug,0,0,,0,0,0.053218268
+Recommender,Bug,0,0,,0,0,0.011243113
+Scoring,Bug,0,1,RAI-09,1,1,0.9205032
+Computer Vision,Bug,0,0,,0,0,0.0076506333
+Classification,Bug,0,0,,0,0,0.012370046
+Scoring,Bug,0,0,,0,0,0.0061683226
+Scoring,Bug,0,2,"RAI-03,RAI-04",1,1,0.99964046
+Forecasting,Bug,0,2,"RAI-07,RAI-09",1,1,0.992496
+Recommender,Bug,0,2,"RAI-04,RAI-05",1,1,0.99939156
+LLM Chatbot,Bug,1,1,RAI-01,1,1,0.9885915
+Classification,Bug,1,2,"RAI-01,RAI-06",1,1,0.9892364
+Forecasting,Bug,0,0,,0,0,0.015525963
+LLM Chatbot,Bug,0,0,,0,0,0.009574929
+Computer Vision,Bug,0,0,,0,0,0.0072046774
+Recommender,Bug,1,2,"RAI-01,RAI-02",1,1,0.9994386
+Scoring,Bug,0,0,,0,0,0.0070379525
+Classification,Suggestion,0,0,,0,0,0.011900536
+LLM Chatbot,Bug,1,3,"RAI-02,RAI-06,RAI-07",1,1,0.9998185
+LLM Chatbot,Suggestion,0,3,"RAI-02,RAI-05,RAI-08",1,1,0.9999424
+Clustering,Suggestion,1,3,"RAI-01,RAI-06,RAI-09",1,1,0.99941957
+Recommender,Bug,1,3,"RAI-03,RAI-06,RAI-07",1,1,0.9999895
+Computer Vision,Bug,0,0,,0,0,0.013860468
+Computer Vision,Bug,0,0,,0,0,0.0062704883
+Scoring,Bug,0,1,RAI-05,1,1,0.92405224
+Classification,Suggestion,0,0,,0,0,0.041292425
+Recommender,Bug,0,0,,0,0,0.08687738
+Computer Vision,Bug,0,0,,0,0,0.0076080295
+Clustering,Bug,0,1,RAI-09,1,1,0.48028654
+Forecasting,Bug,0,1,RAI-05,1,1,0.9466674
+Computer Vision,Bug,0,3,"RAI-05,RAI-07,RAI-09",1,1,0.999899
+Forecasting,Suggestion,0,0,,0,0,0.016340474
+Computer Vision,Bug,0,1,RAI-03,1,1,0.50172925
+Computer Vision,Bug,0,2,"RAI-08,RAI-09",1,1,0.99805814
+Scoring,Bug,1,3,"RAI-01,RAI-05,RAI-06",1,1,0.99988544
+Clustering,Bug,0,0,,0,0,0.01934339
+LLM Chatbot,Suggestion,0,0,,0,0,0.008456724
+Clustering,Bug,1,2,"RAI-01,RAI-04",1,1,0.9961153
+Forecasting,Bug,1,3,"RAI-01,RAI-02,RAI-08",1,1,0.99988127
+Clustering,Bug,0,0,,0,0,0.0070762946
+Computer Vision,Bug,0,0,,0,0,0.020190852
+Classification,Suggestion,0,1,RAI-07,1,1,0.97474366
+Recommender,Bug,1,1,RAI-01,1,1,0.9578396
+Computer Vision,Bug,1,3,"RAI-01,RAI-06,RAI-08",1,1,0.999798
+Computer Vision,Bug,0,0,,0,0,0.01483073
+Recommender,Bug,0,0,,0,0,0.068203166
+Forecasting,Bug,0,0,,0,0,0.015365514
+Scoring,Suggestion,0,0,,0,0,0.010598003
+Clustering,Bug,0,0,,0,0,0.014491658
+Forecasting,Bug,0,2,"RAI-04,RAI-07",1,1,0.99228364
+Forecasting,Bug,0,2,"RAI-07,RAI-08",1,1,0.99980193
+Scoring,Bug,0,0,,0,0,0.015279378
+Computer Vision,Bug,0,0,,0,0,0.010035595
+Computer Vision,Suggestion,0,2,"RAI-02,RAI-05",1,1,0.9880034
+Recommender,Bug,1,3,"RAI-01,RAI-03,RAI-04",1,1,0.9999745
+Recommender,Bug,0,1,RAI-03,1,0,0.24785817
+Classification,Bug,0,3,"RAI-02,RAI-05,RAI-07",1,1,0.99972886
+Clustering,Bug,1,3,"RAI-02,RAI-06,RAI-09",1,1,0.9999267
+Classification,Bug,0,0,,0,0,0.07939474
+Recommender,Bug,0,0,,0,0,0.01407286
+Recommender,Bug,1,3,"RAI-03,RAI-06,RAI-09",1,1,0.9999758
+Scoring,Bug,0,0,,0,0,0.010101228
+LLM Chatbot,Bug,0,0,,0,0,0.01136181
+Forecasting,Suggestion,0,0,,0,0,0.009975792
+Recommender,Bug,0,0,,0,0,0.022730215
+LLM Chatbot,Bug,0,0,,0,0,0.012518821
+Forecasting,Bug,0,0,,0,0,0.013987577
+Classification,Bug,0,0,,0,0,0.009666756
+LLM Chatbot,Bug,0,0,,0,0,0.010945625
+Recommender,Bug,0,2,"RAI-03,RAI-04",1,1,0.9994205
+Recommender,Bug,0,2,"RAI-04,RAI-09",1,1,0.99943584
+Recommender,Bug,1,3,"RAI-01,RAI-06,RAI-08",1,1,0.9996964
+Scoring,Bug,0,0,,0,0,0.010277231
+Computer Vision,Suggestion,0,0,,0,0,0.09296442
+Forecasting,Bug,0,0,,0,0,0.020054782
+LLM Chatbot,Suggestion,0,2,"RAI-03,RAI-08",1,1,0.9737055
+LLM Chatbot,Bug,0,0,,0,0,0.00797972
+Recommender,Suggestion,0,0,,0,0,0.011552044
+Forecasting,Bug,0,0,,0,0,0.041016936
+Forecasting,Suggestion,0,0,,0,0,0.011697887
+LLM Chatbot,Bug,0,0,,0,0,0.023056444
+Classification,Bug,0,0,,0,0,0.030338725
+Clustering,Bug,0,2,"RAI-02,RAI-04",1,1,0.9947443
+Classification,Bug,0,0,,0,0,0.027338715
+Forecasting,Bug,0,1,RAI-08,1,1,0.8528376
+LLM Chatbot,Bug,0,0,,0,0,0.013819025
+Scoring,Bug,0,0,,0,1,0.9090119
+Forecasting,Bug,0,0,,0,0,0.011327272
+Computer Vision,Bug,0,0,,0,0,0.006545252
+Recommender,Bug,0,1,RAI-02,1,1,0.7544027
+Recommender,Bug,0,0,,0,0,0.011683056
+Forecasting,Bug,0,0,,0,0,0.0041491273
+LLM Chatbot,Bug,0,0,,0,0,0.011737518
+Scoring,Bug,0,0,,0,0,0.0120349135
+Clustering,Bug,0,0,,0,0,0.006569749
+LLM Chatbot,Bug,0,0,,0,0,0.0082131615
+Recommender,Bug,0,0,,0,0,0.014646605
+LLM Chatbot,Bug,0,0,,0,0,0.0068881144
+Recommender,Bug,0,0,,0,0,0.0079350285
+Recommender,Bug,0,0,,0,0,0.012764877
+LLM Chatbot,Bug,1,2,"RAI-01,RAI-06",1,1,0.97773254
+Clustering,Bug,0,0,,0,0,0.014243928
+Forecasting,Suggestion,0,0,,0,0,0.051964507
+Classification,Bug,0,0,,0,0,0.005077329
+Computer Vision,Bug,0,2,"RAI-08,RAI-09",1,1,0.9930709
+LLM Chatbot,Bug,0,0,,0,0,0.011857662
+Forecasting,Bug,0,0,,0,0,0.010783708
+Scoring,Suggestion,0,0,,0,0,0.008657195
+Forecasting,Bug,0,0,,0,0,0.025938127
+Computer Vision,Bug,0,0,,0,0,0.01187406
+Scoring,Bug,0,2,"RAI-07,RAI-08",1,1,0.99673694
+Forecasting,Bug,0,2,"RAI-03,RAI-07",1,1,0.9998338
+Scoring,Bug,0,0,,0,1,0.69803375
+Computer Vision,Bug,0,0,,0,0,0.01848504
+Classification,Suggestion,0,0,,0,0,0.013943235
+Forecasting,Bug,0,0,,0,0,0.0035646474
+Clustering,Suggestion,0,1,RAI-04,1,1,0.94534516
+Computer Vision,Bug,0,2,"RAI-03,RAI-04",1,1,0.99852777
+Classification,Bug,1,3,"RAI-01,RAI-03,RAI-09",1,1,0.9999862
+Recommender,Bug,0,0,,0,0,0.008941964
+Computer Vision,Bug,0,1,RAI-02,1,1,0.8876461
+Forecasting,Bug,0,0,,0,0,0.012258758
+Clustering,Bug,0,0,,0,0,0.029168507
+Recommender,Bug,0,0,,0,0,0.007928848
+Clustering,Bug,0,0,,0,0,0.0133035295
+Computer Vision,Suggestion,1,1,RAI-01,1,1,0.9995772
+LLM Chatbot,Bug,1,3,"RAI-04,RAI-06,RAI-09",1,1,0.99995375
+Forecasting,Bug,0,0,,0,0,0.013605783
+Clustering,Bug,0,1,RAI-04,1,1,0.8495643
+Recommender,Bug,0,0,,0,0,0.004559549
+Clustering,Suggestion,0,0,,0,0,0.007863382
+Scoring,Bug,0,0,,0,0,0.01836869
+LLM Chatbot,Bug,1,1,RAI-01,1,1,0.9628125
+LLM Chatbot,Suggestion,0,0,,0,1,0.9126684
+Recommender,Suggestion,0,2,"RAI-05,RAI-08",1,1,0.99843305
+Recommender,Bug,0,0,,0,0,0.031579997
+Scoring,Bug,0,1,RAI-02,1,1,0.90778047
+LLM Chatbot,Bug,0,0,,0,0,0.013138411
+LLM Chatbot,Bug,1,3,"RAI-01,RAI-04,RAI-06",1,1,0.9996594
+Computer Vision,Suggestion,0,0,,0,0,0.0090992525
+Computer Vision,Bug,0,0,,0,0,0.0084569715
+Recommender,Bug,0,0,,0,0,0.057718784
+LLM Chatbot,Bug,0,0,,0,0,0.011631902
+Scoring,Bug,0,0,,0,0,0.0066630044
+Clustering,Suggestion,0,0,,0,0,0.008671492
+Scoring,Bug,0,1,RAI-04,1,1,0.90227395
