@@ -1,4 +1,4 @@
-# Goal 4 (extended) — The Autonomous Compliance Sentinel Agent
+# Goal 4: The Autonomous Compliance Sentinel Agent
 
 Everything from the *basic* agent (Sections 1 + 2 of the integration note) **plus
 the optional Section-3 add-ons**. Same LangGraph flow, same offline fallbacks.
@@ -32,7 +32,7 @@ python -m pytest tests/ -q       # tests
 
 `certify()` turns Goal-3 metrics into pass/fail gates. On the Version-2 model it
 reports the known **negation-blindness** (`negation_blind_pairs = 4`), so the gate
-returns `passed: False` — that is the pre-gate correctly surfacing a documented
+returns `passed: False` that is the pre-gate correctly surfacing a documented
 model weakness before the agent ships, not a bug. Adjust the thresholds
 (`max_blind`, `min_worst_recall`) to your policy.
 
