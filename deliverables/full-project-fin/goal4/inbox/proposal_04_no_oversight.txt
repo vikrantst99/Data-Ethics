@@ -1,0 +1,1 @@
+The loan decision is made fully automatically without human intervention and no human-in-the-loop is foreseen.
