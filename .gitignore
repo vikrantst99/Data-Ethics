@@ -1,12 +1,30 @@
 # Virtual environment
 .venv/
 
-# Dataset
-proposals_1000_EN.csv
+# Environment variables -- NEVER push this, contains API keys
+.env
 
-# Python cache (auto-generated, never useful to push)
+# Dataset -- large files, not needed in repo
+proposals_1000_EN.csv
+proposals_1000_EN 1.csv
+
+# Python cache -- auto-generated, never useful to push
 __pycache__/
 *.pyc
+*.pyo
 
 # Jupyter auto-save checkpoints
 .ipynb_checkpoints/
+
+# Trained model file -- large binary, reproducible from code
+*.pkl
+*.joblib
+
+# Chroma vector database -- large binary, reproducible by rerunning the notebook
+Works/Week 4/Chroma/
+
+# Mac junk files
+.DS_Store
+
+# Word documents in Works folder -- these are local study notes
+Works/Week 4/*.docx
