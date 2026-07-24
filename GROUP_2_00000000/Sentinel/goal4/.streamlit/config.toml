@@ -1,0 +1,8 @@
+[theme]
+# Modern, calm compliance-tool palette. Brand accent = SRH blue.
+base = "light"
+primaryColor = "#00699A"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f8"
+textColor = "#14181f"
+font = "sans-serif"

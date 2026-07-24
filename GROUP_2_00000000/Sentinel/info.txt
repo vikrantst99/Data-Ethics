@@ -1,0 +1,16 @@
+=================================================
+The Autonomous Compliance Sentinel
+=================================================
+Group 2: Singh, Vikrant and Müller, Kay
+-------------------------------------------------
+
+Note on the directory structure:
+
+1. All the goals in this directory make up our final project. 
+
+2. All data and analyses available up to the point of the label leak are archived in the "version_1" directory (see also Report.pdf – 5. Implementation Version 2)
+
+Note on usage:
+In addition to the notebooks, the process for running the entire pipeline (including the UI) is described in “goal4/README.md”.
+
+OR DIRECTLY in goal4 using `streamlit run streamlit_app.py`

@@ -97,6 +97,7 @@ def explain_prediction(pipeline, text, n=10):
     return results[:n]
 
 def audit_trail(pipeline, text, y_true, y_pred, proba, n_terms=10):
+    
     # Get the top trigger words for this specific proposal
     # explain_prediction returns a list of (word, score) tuples
     top_words=explain_prediction(pipeline, text, n_terms)

@@ -1,0 +1,34 @@
+[
+  {
+    "issue_key": "DE2-1",
+    "summary": "Issue 1 -- RAI-02 Red Flag (Transparency)",
+    "y_pred": 1,
+    "proba": 0.5413,
+    "prediction": "Red Flag",
+    "policy_id": "RAI-01",
+    "severity": "High",
+    "trigger_words": "it: 0.2625 (toward Red Flag)\nhuman: 0.2325 (toward Red Flag)\nautomated: 0.0882 (toward Red Flag)\nwithout: 0.0872 (toward Red Flag)\nusers: 0.0794 (toward Red Flag)\nthat: 0.0582 (toward Red Flag)\nour: 0.0499 (toward Red Flag)\nmade: 0.0497 (toward Red Flag)\nthey: 0.0391 (toward Red Flag)\nwith: 0.0389 (toward Red Flag)\n",
+    "reason": "The proposal lacks transparency regarding the use of an automated system, violating RAI-01.",
+    "fix": "PENDING HUMAN REVIEW",
+    "llm_narrative": "This proposal raises a significant compliance concern related to transparency and consumer protection. The lack of disclosure about the automated nature of the chatbot may violate consumer protection regulations, such as the EU's Unfair Commercial Practices Directive or the US's Federal Trade Commission (FTC) guidelines. This concern is serious as it may mislead users and impact their trust in the company.",
+    "final_decision": "High severity violation. Human reviewer approved. Pending fix decision.",
+    "human_approved": true,
+    "timestamp": "2026-07-21T17:07:09"
+  },
+  {
+    "issue_key": "DE2-4",
+    "summary": "Issue 4 -- RAI-03 Red Flag (Fairness)",
+    "y_pred": 1,
+    "proba": 0.5616,
+    "prediction": "Red Flag",
+    "policy_id": "RAI-03",
+    "severity": "High",
+    "trigger_words": "past: 0.2065 (toward Red Flag)\ndecisions: 0.1231 (toward Red Flag)\nhiring: 0.0917 (toward Red Flag)\nshortlist: 0.0813 (toward Red Flag)\ncandidates: 0.0427 (toward Red Flag)\ngroups: 0.0412 (toward Red Flag)\nbeen: -0.0376 (toward Compliant)\nage: 0.0355 (toward Red Flag)\nhas been: -0.0345 (toward Compliant)\nmodel: 0.0333 (toward Red Flag)\n",
+    "reason": "The proposal lacks a plan to evaluate outcomes across gender, age, or ethnicity groups, which is a requirement for fair hiring practices.",
+    "fix": "PENDING HUMAN REVIEW",
+    "llm_narrative": "This proposal raises a significant compliance concern regarding potential bias in the resume screening tool. By training on historical hiring decisions without evaluating outcomes across protected groups, there's a risk of perpetuating existing biases and discriminatory patterns. This could lead to unfair treatment of certain groups, potentially violating anti-discrimination laws. The practical impact is substantial, as a biased tool could result in systemic exclusion of underrepresented groups from job opportunities.",
+    "final_decision": "High severity violation. Human reviewer rejected. No action taken.",
+    "human_approved": false,
+    "timestamp": "2026-07-21T17:18:55"
+  }
+]
